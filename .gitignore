@@ -1,0 +1,13 @@
+# Private project instructions
+instructions.md
+
+# Browser test artifacts
+.playwright-mcp/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python-generated files
+__pycache__/
+*.py[cod]
